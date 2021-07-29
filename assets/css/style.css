@@ -1,0 +1,32 @@
+body{
+    background-color: #6F4E37;
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 20px;
+}
+.navbar-brand img{
+    height: 70px;
+}
+.footer{
+    height: 60px;
+    color: white;
+}
+.list-group .list-group-item{
+    background-color: #A0522D;
+}
+.list-group a:hover{
+    color: wheat;
+}
+.list-group h5{
+    color: white;
+}
+.card-text a{
+    color: #6F4E37;
+}
+.card-text a:hover{
+    color: wheat;
+}
+.card-title{
+    color: #A0522D;
+    font-weight: bolder;
+    font-size: 22px;
+}
